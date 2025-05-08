@@ -1130,10 +1130,7 @@ function generatePdfContent($teacherData) {
                             <input type="text" class="form-control" id="session" name="session" value="2023/2024" placeholder="cth. 2023/2024" required>
                         </div>
                         
-                        <div class="col-md-4 mb-3">
-                            <label for="collegeAverage" class="form-label">Skor Purata Kolej</label>
-                            <input type="number" class="form-control" id="collegeAverage" name="collegeAverage" value="9.9" min="0" max="10" step="0.1" required>
-                        </div>
+                       
                         
                     </div>
                     
